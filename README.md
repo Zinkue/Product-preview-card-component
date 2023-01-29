@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Web Preview](images\web-preview.jpg)
+![Web Preview](./images/web-preview.jpg)
 
 ### Links
 
